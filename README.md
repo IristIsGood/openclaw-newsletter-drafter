@@ -39,8 +39,8 @@ openclaw onboard --openai-api-key "your-key"
 Clone this repo into your OpenClaw workspace:
 \`\`\`bash
 mkdir -p ~/.openclaw/workspace/skills/newsletter-drafter
-# (Move draft_newsletter.py and SKILL.md here)
 \`\`\`
+
 
 Test the script directly first — before wiring it to OpenClaw
 python3 draft_newsletter.py "AI agents in 2026"copy
